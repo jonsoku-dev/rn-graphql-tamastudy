@@ -1,0 +1,41 @@
+# Package.json
+```bash
+  "dependencies": {
+    "@apollo/client": "^3.2.1",
+    "@expo/vector-icons": "^10.2.1",
+    "@react-native-community/masked-view": "^0.1.10",
+    "expo": "~39.0.2",
+    "expo-status-bar": "~1.0.2",
+    "graphql": "^15.3.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.2.tar.gz",
+    "react-native-gesture-handler": "^1.8.0",
+    "react-native-screens": "^2.11.0",
+    "react-native-web": "~0.13.12",
+    "react-navigation": "^4.4.1",
+    "react-navigation-stack": "^2.8.3",
+    "react-navigation-tabs": "^2.9.1"
+  },
+  "devDependencies": {
+    "@graphql-codegen/cli": "1.17.10",
+    "@graphql-codegen/fragment-matcher": "1.17.8",
+    "@graphql-codegen/introspection": "1.17.8",
+    "@graphql-codegen/typescript": "1.17.9",
+    "@graphql-codegen/typescript-operations": "1.17.8",
+    "@graphql-codegen/typescript-react-apollo": "2.0.6",
+    "@types/react": "~16.9.35",
+    "@types/react-dom": "~16.9.8",
+    "@types/react-native": "~0.63.2",
+    "@types/react-navigation": "^3.4.0",
+    "@typescript-eslint/eslint-plugin": "^4.3.0",
+    "@typescript-eslint/parser": "^4.3.0",
+    "eslint": "^7.10.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.6",
+    "prettier": "^2.1.2",
+    "react-native-web": "~0.13.7",
+    "typescript": "~3.9.5"
+  },
+```
